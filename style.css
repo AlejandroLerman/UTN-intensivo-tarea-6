@@ -91,7 +91,7 @@ header nav .btn-2 .bi-arrow-up-right{
     
     display: flex;
     justify-content:center;
-    margin-top:110px 0 100px 150px;
+    margin:110px 0 px 100px 150px;
     gap:60px;
     padding: 20px;
     border: 1px solid transparent;
